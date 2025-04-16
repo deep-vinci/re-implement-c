@@ -13,4 +13,5 @@ strcmp()
 strcpy()
 strlen()
 strcspn()
+strerror() 😭
 ```
