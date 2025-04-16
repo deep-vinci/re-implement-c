@@ -12,4 +12,5 @@ strcat()
 strcmp()
 strcpy()
 strlen()
+strcspn()
 ```
