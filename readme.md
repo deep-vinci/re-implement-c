@@ -13,5 +13,6 @@ strcmp()
 strcpy()
 strlen()
 strcspn()
-strerror() 😭
+strerror()
+strncat()
 ```
