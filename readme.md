@@ -13,6 +13,7 @@ r_strcpy is short for reimplemented_strcpy
 | strcat()   | Appends src string to the end of dest.                                                    |
 | strncat()  | Appends up to n characters from src to dest.                                              |
 | strcmp()   | Compares two strings and returns 0 if equal.                                              |
-| strcspn()  | Find a character from a string                                                            |
+| strcspn()  | Finds a character from a array of string                                                  |
 | strerror() | Returns the string description of an error code.                                          |
-| memchr()   | returns a pointer to the first byte in a block of memory which contains a specified value |
+| memchr()   | Returns a pointer to the first byte in a block of memory which contains a specified value |
+| strrev()   | Returns the reverse of the string (unofficial)                                            |
