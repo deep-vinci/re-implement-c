@@ -28,7 +28,7 @@ char *r_memchr(char *source, char searchTerm, int len)
         }
         else
         {
-            *source++;
+            source++;
         }
         i++;
     }
