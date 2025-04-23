@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int r_strlen(char *a)
+size_t r_strlen(char *a)
 {
     size_t l = 0;
     while (*a++ != '\0')
